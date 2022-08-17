@@ -22,4 +22,4 @@
 
 
 # Hasil
-<img src="" width="640" title="Menu" alt="Menu">
+<img src="https://github.com/MN4WN1-777/XNXIG/blob/main/Screenshot_20220817_095138.jpg" width="640" title="Menu" alt="Menu">

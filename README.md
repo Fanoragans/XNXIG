@@ -19,3 +19,7 @@
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/MN4WN1-777) [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/kemas.rifki.75)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282316671302?text=Hello+BG😀+)
+
+
+# Hasil
+<img src="" width="640" title="Menu" alt="Menu">

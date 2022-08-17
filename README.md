@@ -1,4 +1,6 @@
-<h3 align="left">Cara Install Script:</h3>
+# SCRIPT CRACK IG
+      
+      <h3 align="left">Cara Install Script:</h3>
             
            $ pkg update && pkg ugrade
            $ pkg install python
